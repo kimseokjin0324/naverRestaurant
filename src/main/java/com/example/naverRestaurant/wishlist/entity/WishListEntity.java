@@ -1,6 +1,6 @@
-package com.example.restaurant.wishlist.entity;
+package com.example.naverRestaurant.wishlist.entity;
 
-import com.example.restaurant.db.MemoryDbEntity;
+import com.example.naverRestaurant.db.MemoryDbEntity;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

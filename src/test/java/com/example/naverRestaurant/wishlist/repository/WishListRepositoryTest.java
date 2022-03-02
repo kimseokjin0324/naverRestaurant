@@ -1,7 +1,6 @@
-package com.example.restaurant.wishlist.repository;
+package com.example.naverRestaurant.wishlist.repository;
 
-import com.example.restaurant.wishlist.entity.WishListEntity;
-import org.junit.jupiter.api.Assertions;
+import com.example.naverRestaurant.wishlist.entity.WishListEntity;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
